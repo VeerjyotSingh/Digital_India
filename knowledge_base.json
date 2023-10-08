@@ -1,6 +1,14 @@
 {
   "questions": [
     {
+      "questions": "what can you do?",
+      "answer": "I am a chatbot who can answer your questions regarding Digital India."
+    },
+    {
+      "questions": "what is digilocker?",
+      "answer": "DigiLocker is a digitization service provided by the Indian Ministry of Electronics and Information Technology under its Digital India initiative. DigiLocker allows access to digital versions of various documents including drivers licenses, vehicle registration certificates and academic mark sheets."
+    },
+    {
       "questions": "hello",
       "answer": "hi! how are you?"
     },
@@ -303,6 +311,10 @@
     {
       "questions": "/usr/local/bin/python3 /Users/veerjyotsingh/Desktop/attachments/trying.py",
       "answer": "/usr/local/bin/python3 /Users/veerjyotsingh/Desktop/attachments/trying.py"
+    },
+    {
+      "questions": "who is chief minister of Delhi ?",
+      "answer": "As of October 2021, Arvind Kejriwal is the Chief Minister of Delhi."
     }
   ]
 }
